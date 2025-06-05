@@ -1,0 +1,56 @@
+*{
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body{
+    margin: 50px;
+    background-color:rgb(27, 26, 26) ;
+}
+header{color: black;
+background-color: black;
+padding: 5px;
+}
+main{background-color: darkblue;
+font-family: Segoe UI;
+width: 400px;
+margin: auto;
+padding: 25px;
+color: aliceblue;
+}
+footer{background-color: cornflowerblue;
+ font: small-caps 100%/200% serif;
+ padding: 10px;
+ color: darkgray;
+}
+div{
+margin-top: 10px;
+padding: 10px;
+ border-bottom: 1px solid #3498db;
+}
+.posteo{
+    background-color: darkblue;
+}
+.anuncio{
+    background-color: aliceblue;
+}
+#foto-perfil{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+img{
+    width: 100%;
+    height: 150px;
+    border: 50%;
+}
+#nombre-perfil{
+font-weight: bold;
+font-family: Montserrat;
+border-bottom: 1px solid black;
+font-size: 20px;
+}
+h2{
+   text-align:center ; 
+   font-size: 30px;
+}
